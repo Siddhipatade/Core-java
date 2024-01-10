@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> branch 'main' of https://github.com/Siddhipatade/Core-java.git
 package com.java.core;
 
 import java.util.Scanner;

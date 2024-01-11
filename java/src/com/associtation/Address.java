@@ -1,5 +1,5 @@
 package com.associtation;
-
+//program to demonstrate has a association
 public class Address {
 	private String street;
 	private String city;
